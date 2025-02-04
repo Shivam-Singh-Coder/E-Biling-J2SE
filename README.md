@@ -1,5 +1,5 @@
 # E-Biling-J2SE
-eBilling Management Software
+eBilling Management Application Software
 
 Overview
 
@@ -69,7 +69,9 @@ Usage
 
 Screenshots
 
-(Add screenshots of the application here if available.)
+![image](https://github.com/user-attachments/assets/adfd455c-0a41-4d11-b206-e23ee77750fa)
+![image](https://github.com/user-attachments/assets/d3c18c1a-d74d-4634-85dd-ca1af9e81cef)
+![image](https://github.com/user-attachments/assets/a302eb7a-3c9b-4bfc-b676-ab716932ca38)
 
 Contributing
 
