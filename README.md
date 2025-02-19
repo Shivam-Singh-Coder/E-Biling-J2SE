@@ -1,4 +1,4 @@
-# E-Biling-J2SE 🖥️
+# E-Billing-J2SE 🖥️
 eBilling Management Application Software
 
 ## Overview 👀
